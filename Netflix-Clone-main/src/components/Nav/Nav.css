@@ -1,0 +1,61 @@
+.nav {
+  position: fixed;
+  top: 0;
+  padding: 20px;
+  width: 100%;
+  height: 30px;
+  z-index: 100;
+
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+}
+
+.nav__contents {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav__black {
+  background-color: #111;
+}
+
+.nav__logo {
+  position: fixed;
+  top: 10px;
+  left: 0;
+  width: 80px;
+  object-fit: contain;
+  padding-left: 20px;
+  cursor: pointer;
+}
+
+.nav__avatar {
+  cursor: pointer;
+  position: fixed;
+  right: 20px;
+  width: 30px;
+}
+
+.rightNav{
+  padding-left:1060px ;
+}
+
+.rightNav input[type=text] {
+  padding: 6px;
+  padding-right:60px;
+  margin-top: -1px;
+  font-size: 17px;
+  color:black;
+  border: none;
+}
+.rightNav button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: -1px;
+  margin-right: 126px;
+  margin-left: 0px;
+  background-color: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
