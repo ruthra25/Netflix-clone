@@ -23,33 +23,15 @@ Netflix is a streaming service that allows members to watch TV shows and movies 
 
 ## ScreenShots
 
-![Screenshot (169)](https://user-images.githubusercontent.com/86424600/208286350-327dd3c2-291f-4898-8379-22e96cdb0c55.png)
+![image](https://user-images.githubusercontent.com/95080126/227165137-808d0cd7-0e74-4286-9581-ad5835bf7a78.png)
 
-![Screenshot (170)](https://user-images.githubusercontent.com/86424600/208286352-2503b851-b69d-4d55-89d6-95f1ddb3b571.png)
+![image](https://user-images.githubusercontent.com/95080126/227166791-6cd3d93d-bed9-4c99-8cef-a9ac57fef322.png)
 
-![Screenshot (171)](https://user-images.githubusercontent.com/86424600/208286360-cf2a2829-61a3-4729-81bd-f3aeb29ab9c2.png)
+![image](https://user-images.githubusercontent.com/95080126/227167101-5c6a1a2e-cb06-467a-8e2b-09c0de09fc66.png)
 
-![Screenshot (172)](https://user-images.githubusercontent.com/86424600/208286363-6a98bd21-aa50-4b26-830e-cdef7513e51c.png)
+![image](https://user-images.githubusercontent.com/95080126/227167188-5d96650b-1196-4710-870c-06b498da6690.png)
 
-![Screenshot (173)](https://user-images.githubusercontent.com/86424600/208286368-fc04f876-25b5-47f6-b10d-4771eac2432b.png)
+![image](https://user-images.githubusercontent.com/95080126/227167522-4f8fda5c-43d2-4240-b146-132105a6c992.png)
 
-![Screenshot (174)](https://user-images.githubusercontent.com/86424600/208286369-eef3a619-74b2-4c08-b745-8ee802cc7e19.png)
-
-![Screenshot (175)](https://user-images.githubusercontent.com/86424600/208286373-2c75f20f-fe65-4ca2-9e06-3c50d107fdf4.png)
-
-![Screenshot (176)](https://user-images.githubusercontent.com/86424600/208286377-bde6126e-a5ac-4727-ba57-7a9cb4bffcf1.png)
-
-![Screenshot (177)](https://user-images.githubusercontent.com/86424600/208286381-be6ae3db-05ea-42ce-93de-5a7143765be8.png)
-
-![Screenshot (178)](https://user-images.githubusercontent.com/86424600/208286383-f6cd1189-9ce9-4afd-9754-5d3e1c303706.png)
-
-![Screenshot (179)](https://user-images.githubusercontent.com/86424600/208286388-4227ff47-378b-467b-b8a3-0c595d4f503b.png)
-
-![Screenshot (180)](https://user-images.githubusercontent.com/86424600/208286393-11025dc2-4238-45a2-89b8-e823b4f125c7.png)
-
-![Screenshot (181)](https://user-images.githubusercontent.com/86424600/208286470-a302b51f-309c-4167-b4bc-5490cbfc5668.png)
-
-![Screenshot (183)](https://user-images.githubusercontent.com/86424600/208286478-41e3d30a-5e07-4866-8362-21ecf91a783e.png)
-
-
+![image](https://user-images.githubusercontent.com/95080126/227167651-5e7d195c-38c4-4292-97fa-727507032f63.png)
 
